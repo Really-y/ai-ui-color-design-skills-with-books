@@ -1,0 +1,77 @@
+# Glossary — Norman's terms, in his sense
+
+Alphabetical. Chapter of main treatment in parentheses. See `principles.md` for full entries.
+
+- **Action-based slip** (5): a slip in which the wrong action is performed (capture, description-similarity, mode errors).
+- **Activity** vs **task** (6): an activity is a collected set of tasks toward a high-level goal ("go shopping"); a task is a cohesive set of operations toward a low-level goal ("find a basket"). Design for activities.
+- **Activity-centered design** (6): building the product's conceptual model around the conceptual model of the activity; an enhancement of HCD suited to large, diverse populations.
+- **Affordance** (1): a relationship between the properties of an object and the capabilities of an agent that determines how the object could be used. Not a property.
+- **Anti-affordance** (1): the prevention of an interaction (glass blocks passage). Must be perceivable to be effective.
+- **Applied ethnography** (6): observing would-be users in their natural environment, faster and more product-oriented than academic anthropology.
+- **Be-goal / do-goal / motor-goal** (6): three levels of goals (Carver & Scheier; Hassenzahl): why one acts; what to do; how the motion is performed.
+- **Behavioral level** (2): subconscious level of learned skills and expectations; home of interaction and of hope, fear, relief, frustration.
+- **Capture slip** (5): a more frequent or recent action sequence sharing initial steps takes over the intended one.
+- **Checklist, collaborative** (5): two people, one reads, one executes, the reader confirms.
+- **Conceptual model** (1): a simplified, useful explanation of how something works; need not be accurate.
+- **Constraints** (4): physical, cultural, semantic, logical limits on possible actions.
+- **Conventions** (4): cultural constraints on behavior; sometimes codified into standards and laws.
+- **Creeping featurism / featuritis** (7): the tendency to keep adding features beyond reason (term from 1976).
+- **Cultural constraint** (4): learned conventions, schemas, scripts and frames of acceptable action.
+- **Cybermind / transactive memory** (3): memory distributed across people and devices.
+- **Dead man's switch** (4): interlock that stops equipment if the operator stops holding a control.
+- **Declarative knowledge** (3): knowledge of facts and rules; easy to write and teach.
+- **Deliberate violation** (5): intentional deviation from known procedure; routine or situational; organizational, not an "error."
+- **Description-similarity slip** (5): acting on the wrong object because the mental description is too vague to discriminate.
+- **Design research** vs **market research** (6): what people really need (deep, qualitative, tens) vs what they buy (broad, quantitative, thousands).
+- **Design thinking** (6): finding the right problem before the right solution; double diamond plus HCD.
+- **Discoverability** (1): being able to figure out what actions are possible and where and how to perform them.
+- **Double diamond** (6): diverge and converge on the problem (discover, define), then on the solution (develop, deliver).
+- **Event-driven (data-driven) behavior** (2): action cycle triggered from the world, starting with evaluation.
+- **Feedback** (1, 2): information about the results of an action and the current state; answers "what happened?"
+- **Feedforward** (2): information that helps execution: what actions are possible and how; signifiers, constraints, mappings, conceptual model.
+- **Five Whys** (5): Toyota practice of repeatedly asking why to reach root causes.
+- **Flow** (2): immersion when challenge slightly exceeds skill (Csikszentmihalyi).
+- **Forcing function** (4): a constraint where failure at one stage prevents the next; interlock, lock-in, lockout.
+- **Gulf of Execution / Gulf of Evaluation** (2): the gaps between intention and action, and between the world's state and its interpretation against the goal.
+- **Hill climbing** (7): incremental test-and-refine improvement; finds the local peak, never another hill.
+- **Hindsight bias** (5): outcomes look obvious and predictable once known (Fischhoff).
+- **Human-centered design (HCD)** (1, 6): philosophy and process putting human needs, capabilities and behavior first; iterate observation, ideation, prototyping, testing.
+- **Interlock** (4): forces operations into the proper sequence.
+- **Jidoka** (5): Toyota "automation with a human touch": stop the line, converge on the fault, fix the root cause.
+- **Knowledge in the head / in the world** (3): what must be learned vs what can be read from the environment, including constraints.
+- **Knowledge-based mistake** (5): misdiagnosis from erroneous or incomplete knowledge in a novel situation.
+- **Learned (taught) helplessness** (2): after repeated failure people conclude they cannot do the task and stop trying.
+- **Legacy problem** (4, 7): installed bases and learned habits block better designs.
+- **Lock-in** (4): keeps an operation active, preventing premature stopping.
+- **Lockout** (4): prevents entering a dangerous space or triggering an event.
+- **Mapping / natural mapping** (1, 3): relationship between controls and effects; natural when spatial or cultural analogies make it obvious.
+- **Memory-lapse slip / mistake** (5): forgetting that stops a step (slip) or that loses the goal, plan or evaluation (mistake).
+- **Mental model** (1): a person's conceptual model of how something works.
+- **Mistake** (5): wrong goal or plan; actions match the plan, the plan is wrong. Rule-based, knowledge-based, memory-lapse.
+- **Mode error** (5): same control, different meaning in different states.
+- **Norman's Law of Product Development** (6): the day a product development process starts, it is behind schedule and above budget.
+- **Opportunistic action** (2): behavior that takes advantage of circumstances rather than planning.
+- **Paradox of automation** (5): automation handles the dull tasks and fails at the complex ones, without warning, with the human out of the loop.
+- **Paradox of technology** (1): added functions simplify life and complicate the device.
+- **Perceived affordance** (1): an affordance that is visible; often acts as a signifier, sometimes misleadingly.
+- **Poka-yoke** (5): error proofing with simple fixtures and constraints (Shingo).
+- **Principle of desperation** (4): if all else fails, standardize.
+- **Procedural knowledge** (3): knowledge how; skills learned by practice, taught by demonstration.
+- **Prospective memory** (3): remembering to do something in the future; needs a signal and a message.
+- **Reflective level** (2): conscious, slow processing that assigns causes; source of guilt, pride, blame, praise and lasting memory.
+- **Resilience engineering** (5): designing systems, procedures, management and training so people can cope with complexity under pressure; continual testing.
+- **Root cause analysis** (2, 5): asking why until the fundamental goal or cause is reached; must continue past "human error."
+- **Rule-based mistake** (5): the situation is diagnosed but the wrong rule is chosen, or the rule is faulty, or the outcome misjudged.
+- **Sensibility check** (5): the system checks whether a requested value or action is reasonable before executing it.
+- **Seven stages of action** (2): goal, plan, specify, perform, perceive, interpret, compare.
+- **Signifier** (1): any perceivable mark or sound that communicates appropriate behavior; deliberate or accidental.
+- **Skeuomorphic** (4): new technology imitating old forms that no longer serve a function; eases transition.
+- **Skill-based / rule-based / knowledge-based behavior** (5): Rasmussen's three modes; errors there are mostly slips, rule mistakes, and knowledge mistakes.
+- **Slip** (5): intending one action and doing another; goal right, execution wrong; commoner in experts.
+- **Sterile cockpit** (5): no unrelated conversation during critical phases.
+- **Stigler's law** (2, 7): discoveries are named after someone other than their originator; products credited to whoever capitalized.
+- **Swiss cheese model** (5): accidents require holes in multiple defensive layers to line up (Reason).
+- **System image** (1): everything the user can perceive about the product, including documentation and marketing; the only channel from designer to user.
+- **Visceral level** (2): fast, automatic, pre-emotional judgments driven by appearance and sensation; attraction or repulsion.
+- **Wizard of Oz prototype** (6): a hidden human simulates the system to test a concept before it can be built.
+- **Zeitgeist** (7): ideas "in the air" that competitors arrive at simultaneously.
